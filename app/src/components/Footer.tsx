@@ -38,20 +38,20 @@ export default function Component(): JSX.Element {
 						<MoTD/>
 						<br />
 						<ul style={{ padding: "0 2rem", marginTop: 0, lineHeight: 1.5 }}>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/issues" target="_blank">Issue Tracker</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/README.md" target="_blank">About</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/LICENSE.md" target="_blank">License</a></li>
-							<li><a href="//github.com/SHSGames/shsgames.github.io/blob/master/PRIVACY.md" target="_blank">Privacy Statement</a></li>
+							<li><a href="https://github.com/techarb2/prodigygames6/issues" target="_blank">Issue Tracker</a></li>
+							<li><a href="https://github.com/techarb2/prodigygames6/blob/master/README.md" target="_blank">About</a></li>
+							<li><a href="https://github.com/techarb2/prodigygames6/blob/master/LICENSE.md" target="_blank">License</a></li>
+							<li><a href="https://github.com/techarb2/prodigygames6/blob/master/PRIVACY.md" target="_blank">Privacy Statement</a></li>
 						</ul>
 					</Col>
 					<Col xl={4}>
-						<a href="//github.com/SHSGames/shsgames.github.io" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
+						<a href="https://github.com/techarb2/prodigygames6" style={{ marginTop: 16, display: "inline-block", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
 							<img src={"https://github-readme-stats.vercel.app/api/pin/?username=SHSGames&repo=shsgames.github.io&theme=radical&bg_color=22272e&border_color=373e47&title_color=58a6ff&icon_color=adbac7&text_color=adbac7"} alt="" className="raised-3"/>
 						</a>
 					</Col>
 					<Col xl={4}>
 						<div className="raised-3" style={{ display: "inline-block", margin: "16px 0", maxWidth: "calc(100vw - 32px)", overflow: "hidden" }}>
-							<DiscordInvite guild="584437072618717209"/>
+							<DiscordInvite guild="962111270318903358"/>
 						</div>
 					</Col>
 				</Row>
@@ -61,7 +61,7 @@ export default function Component(): JSX.Element {
 					<div style={{ display: "inline-flex", alignItems: "start", flexDirection: "column" }}>
 						<span>Copyright © 2019-{(new Date).getFullYear()} • All Rights Reserved</span>
 						<div>
-							<a href="//joshmerlino.github.io" className="link">Josh Merlino</a> • <a href="//th3skeleton.github.io/pshel/" className="link">Parker Sheldon</a>  • And our amazing <a href="//github.com/SHSGames/shsgames.github.io/graphs/contributors" target="_blank">Contributors</a>
+							<a href="gitthub.com/techrb2" className="link">techarb2</a> • <a href="https://github.com/lnjzcsdjh" className="link">lnjzcsdjh</a>  • And our amazing <a href="https://github.com/techarb2/prodigygames6/graphs/contributors" target="_blank">Contributors</a>
 						</div>
 					</div>
 					<div style={{ alignItems: "start", flexDirection: "column", marginLeft: "auto", display: "table", marginTop: "-26px", transform: "translateY(-4px)" }}>
